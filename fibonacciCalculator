@@ -1,0 +1,4 @@
+a , n = 0,1 # a starts at 1 and n starts in one
+while n < 1000: # The program is going to run until it gets to 1000 or close (1000 is not fixed)
+    print n # the program is going to show n
+    a,n = n, a+n # the a value is n and the n value is a plus b,  and that concepts runs infinitely or  if we define a limit like n < 1000
